@@ -11,7 +11,9 @@ It matches of the laser measurement data with a prior known map,  which aids in 
 ## Data Description
 
 The data for the simulation are logs from the Lidar sensor and Odometry readings of the dead reckoning. 
-These are found in the directory Logs. Lidar_log.csv and Odo_Log.csv.
+These are found in the directory Logs. 
+* Lidar_log.csv 
+* Odo_Log.csv.
 
 ## Usage 
 
