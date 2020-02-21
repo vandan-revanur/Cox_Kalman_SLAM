@@ -18,3 +18,4 @@ These are found in the directory Logs. Lidar_log.csv and Odo_Log.csv.
 Run the main.py for the simulation. 
 Modify the cox.py if you would like simulate a different map.
 
+![](Logs/SLAM.gif)
