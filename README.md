@@ -20,4 +20,9 @@ These are found in the directory Logs.
 Run the main.py for the simulation. 
 Modify the cox.py if you would like simulate a different map.
 
+In the below gif: 
+The green dot corresponds to the position as estimated by the odometry.
+The yellow dot corresponds to the position as estimated by the odmetry corrected by the Cox scan.
+The black dot corresponds to the Kalman corrected reading.
+
 ![](Media/SLAM.gif)
