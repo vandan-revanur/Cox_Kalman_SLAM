@@ -8,7 +8,7 @@ I would like to sincerely thank my teammate : Fredrik Svanström, who was majorl
 
 ## Description of the repository
 
-This repository contains files for Simulation of Simultaneous Localization and mapping (SLAM) for robot equipped with a RPLidar A2 sensor, and electrical motors with inbuilt encoders.
+This repository contains files for Simulation of Simultaneous Localization and mapping (SLAM) for a robot equipped with a RPLidar A2 sensor, and electrical motors with inbuilt encoders.
 
 The robot looks like this. 
 
