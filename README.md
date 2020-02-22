@@ -2,6 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3678904.svg)](https://doi.org/10.5281/zenodo.3678904)
 
+## Acknowledgements
+
+I would like to sincerely thank my teammate : Fredrik Svanström, who was majorly involved in the development of the code and supported me in understanding the theory behind concepts such as the Dead reckoning, Cox Algorithm and Kalman Filtering for sensor fusion, and the physical construction of the robot. 
+
+## Description of the repository
 
 This repository contains files for Simulation of Simultaneous Localization and mapping (SLAM) for robot equipped with a RPLidar A2 sensor, and electrical motors with inbuilt encoders.
 
