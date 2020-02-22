@@ -11,7 +11,7 @@ I would like to sincerely thank my teammate : Fredrik Svanström, who was majorl
 This repository contains files for Simulation of Simultaneous Localization and mapping (SLAM) for robot equipped with a RPLidar A2 sensor, and electrical motors with inbuilt encoders.
 
 The robot looks like this. 
-![](Media/robot.png)
+![](Media/robot.png| width =100)
 
 Localalization is realised using a Kalman filter which fuses the dead reckoning position estimate and
 laser position measurements to obtain an estimate with reduced error.
