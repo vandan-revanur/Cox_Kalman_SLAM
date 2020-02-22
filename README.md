@@ -1,5 +1,7 @@
 # Cox_Kalman_SLAM
 
+https://doi.org/10.5281/zenodo.3678904
+
 This repository contains files for Simulation of Simultaneous Localization and mapping (SLAM) for robot equipped with a RPLidar A2 sensor, and electrical motors with inbuilt encoders.
 
 Localalization is realised using a Kalman filter which fuses the dead reckoning position estimate and
