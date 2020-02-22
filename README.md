@@ -19,6 +19,19 @@ These are found in the directory Logs.
 * Odo_Log.csv.
 
 ## Usage 
+ 
+If you plan to use this for your research, please cite using the following:
+
+@software{vandan_revanur_2020_3678904,
+  author       = {Vandan Revanur},
+  title        = {vandan-revanur/Cox\_Kalman\_SLAM: First Release},
+  month        = feb,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.3678904},
+  url          = {https://doi.org/10.5281/zenodo.3678904}
+}
 
 Run the main.py for the simulation. 
 Modify the cox.py if you would like simulate a different map.
@@ -29,3 +42,4 @@ In the below gif:
 * The black dot corresponds to the Kalman corrected reading.
 
 ![](Media/SLAM.gif)
+
