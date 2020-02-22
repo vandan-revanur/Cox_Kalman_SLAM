@@ -57,5 +57,5 @@ If you plan to use this for your research, please consider citing using the foll
 
 ## References
 
-[1] https://ieeexplore.ieee.org/document/75902 : [](docs/cox1991.pdf)
+[1] https://ieeexplore.ieee.org/document/75902 :  ![](docs/cox1991.pdf)
 
