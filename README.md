@@ -14,7 +14,7 @@ The robot looks like this.
 
 <img src="Media/robot.png" width="324" height="324">
 
-Localalization is realised using a Kalman filter which fuses the dead reckoning position estimate and
+Localization is realised using a Kalman filter which fuses the dead reckoning position estimate and
 laser position measurements to obtain an estimate with reduced error.
 The Cox scan matching algorithm is used for the mapping, based on the paper [1], matches the laser measurement data with a prior known map, which aids in updating the robots current estimate.
 
